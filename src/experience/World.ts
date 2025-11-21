@@ -1,4 +1,5 @@
 import * as THREE from 'three';
+import { RoomEnvironment } from 'three/examples/jsm/environments/RoomEnvironment.js';
 import * as CANNON from 'cannon-es';
 import { Spring } from './Spring';
 import { Floor } from './Floor';
